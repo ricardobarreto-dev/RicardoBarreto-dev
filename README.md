@@ -2,7 +2,9 @@
 
 **`Estudante de Ciências da Computação`**
 
-Me chamo Ricardo Barreto, tenho 18 anos e sou natural de Recife - Pernambuco. Concluí o ensino médio em 2025, Atualmente, estou cursando Ciências da Computação na Uninassau (1° período). Sou apaixonado por tecnologia e sempre busco novas oportunidades e conhecimento.
+Me chamo Ricardo Barreto, tenho 18 anos e sou natural de Recife - Pernambuco. Concluí o ensino médio em 2025, Atualmente, estou cursando Ciências da Computação na Uninassau Olinda (1° período). Sou apaixonado por tecnologia.
+Atualmente focado em Java e desenvolvimento de projetos práticos, tenho o objetivo de crescer na área de desenvolvimento, aprendendo novas tecnologias e colaborando em projetos que impactem positivamente as pessoas.
+Estou aberto a oportunidades, feedbacks e parcerias para crescer junto com a comunidade.
 
 <p align="left">
     </a> 
